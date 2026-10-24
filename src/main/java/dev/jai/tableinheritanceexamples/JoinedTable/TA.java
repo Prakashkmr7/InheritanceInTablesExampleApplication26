@@ -1,4 +1,4 @@
-package dev.umang.tableinheritanceexamples.JoinedTable;
+package dev.jai.tableinheritanceexamples.JoinedTable;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.PrimaryKeyJoinColumn;

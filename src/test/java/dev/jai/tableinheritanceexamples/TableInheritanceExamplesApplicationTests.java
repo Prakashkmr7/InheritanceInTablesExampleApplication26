@@ -1,4 +1,4 @@
-package dev.umang.tableinheritanceexamples;
+package dev.jai.tableinheritanceexamples;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

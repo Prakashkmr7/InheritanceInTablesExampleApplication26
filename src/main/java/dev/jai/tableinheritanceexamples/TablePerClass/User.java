@@ -1,4 +1,4 @@
-package dev.umang.tableinheritanceexamples.TablePerClass;
+package dev.jai.tableinheritanceexamples.TablePerClass;
 
 import jakarta.persistence.*;
 
@@ -18,7 +18,7 @@ public class User {
 /*
 User Post
 User has a post
-Association = cadinalities
+Association = cardinalities
 @OneToMany
 
  */

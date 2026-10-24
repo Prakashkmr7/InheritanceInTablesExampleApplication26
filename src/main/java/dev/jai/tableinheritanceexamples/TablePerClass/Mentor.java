@@ -1,4 +1,4 @@
-package dev.umang.tableinheritanceexamples.TablePerClass;
+package dev.jai.tableinheritanceexamples.TablePerClass;
 
 import jakarta.persistence.Entity;
 

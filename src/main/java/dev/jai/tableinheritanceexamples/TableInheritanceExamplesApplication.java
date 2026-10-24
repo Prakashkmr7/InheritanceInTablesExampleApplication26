@@ -1,4 +1,4 @@
-package dev.umang.tableinheritanceexamples;
+package dev.jai.tableinheritanceexamples;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

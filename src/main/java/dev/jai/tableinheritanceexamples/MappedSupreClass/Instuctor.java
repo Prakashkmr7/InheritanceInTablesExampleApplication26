@@ -1,4 +1,4 @@
-package dev.umang.tableinheritanceexamples.MappedSupreClass;
+package dev.jai.tableinheritanceexamples.MappedSupreClass;
 
 import jakarta.persistence.Entity;
 

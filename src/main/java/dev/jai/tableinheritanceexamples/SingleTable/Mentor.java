@@ -1,4 +1,4 @@
-package dev.umang.tableinheritanceexamples.SingleTable;
+package dev.jai.tableinheritanceexamples.SingleTable;
 
 import jakarta.persistence.DiscriminatorValue;
 import jakarta.persistence.Entity;
